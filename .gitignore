@@ -1,5 +1,7 @@
 movies_metadata.csv
 ratings.csv
+config.py
+.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
